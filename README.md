@@ -40,11 +40,11 @@ xelatex hello_world.tex
 
 This should produce a pdf file that you can read, along with a few other files. 
 
+Congratulations!
+
 (I've chosen to use the `xelatex` command instead of the `latex` command, because it `xelatex` produces a .pdf directly, while you need a few more steps to get a .pdf if you use the `latex` command.)
 
 I'll leave learning about those other steps and files as an exercise for the reader. 😉
-
-Congratulations!
 
 For real projects, I recommend you use one of the LaTeX GUI environments that are mentioned above to help speed up your writing.
 
