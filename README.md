@@ -66,7 +66,7 @@ For more instructions and guides on LaTeX, see the resources below.
 
 #### Packages for Using LaTeX in Other Projects
 
-- [react-latex]([https://github.com/zzish/react-latex) - React Component to render Latex
+- [react-latex](https://github.com/zzish/react-latex) - React Component to render Latex
 
 ### Other Plain-Text Document Generation Languages
 
