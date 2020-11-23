@@ -1,0 +1,8 @@
+# Latex Build Artifacts
+**.aux
+**.dvi
+**.log
+**.pdf
+
+# Private and Notes
+**/private
