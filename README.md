@@ -22,7 +22,8 @@ First, set up a LaTeX environment.
 
 ### Hello World
 
-To set up your first LaTeX file, save this into a `hello_world.tex`. There's an example under `000-getting-started/000-latex`
+To set up your first LaTeX file, save this into a `hello_world.tex`.
+You can find this example under `000-getting-started/000-latex`.
 
 ```
 \documentclass{article}
