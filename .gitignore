@@ -4,5 +4,7 @@
 **.log
 **.pdf
 
+**/out
+
 # Private and Notes
 **/private
